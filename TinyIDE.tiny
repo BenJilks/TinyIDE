@@ -1,0 +1,7 @@
+include "TinyLib/TinyLib.tiny"
+include "TinyGtk/TinyGtk.tiny"
+
+func main()
+{
+	test_func()
+}
